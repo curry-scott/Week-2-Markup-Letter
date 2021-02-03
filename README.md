@@ -1,3 +1,2 @@
 # Week-2-Markup-Letter
-test 
-test 
+This is how to do Week 2 Markup Letter
